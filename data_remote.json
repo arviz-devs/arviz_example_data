@@ -22,6 +22,7 @@
     },
     {
         "name": "regression10d",
+        "filename": "regression10d.nc",
         "url": "http://ndownloader.figshare.com/files/16255736",
         "checksum": "c6716ec7e19926ad2a52d6ae4c1d1dd5ddb747e204c0d811757c8e93fcf9f970",
         "description": "A synthetic multi-dimensional (10 dimensions) linear regression dataset with latent weights (\"w\"), intercept, and noise (\"eps\"). Five hundred data points, fit with PyMC3.\n\nTrue weights and intercept are included as deterministic variables."
