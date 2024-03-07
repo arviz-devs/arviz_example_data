@@ -9,8 +9,8 @@
     {
         "name": "rugby",
         "filename": "rugby.nc",
-        "url": "https://figshare.com/ndownloader/files/44704588",
-        "checksum": "1ebf55d94edae5201616234662f2b899701883440dfdeb089b158d8bfbcf7f9c",
+        "url": "https://figshare.com/ndownloader/files/44916469",
+        "checksum": "f4a5e699a8a4cc93f722eb97929dd7c4895c59a2183f05309f5082f3f81eb228",
         "description": "The Six Nations Championship is a yearly rugby competition between Italy, Ireland, Scotland, England, France and Wales. Fifteen games are played each year, representing all combinations of the six teams.\n\nThis example uses and includes results from 2014 - 2017, comprising 60 total games. It models latent parameters for each team's attack and defense, as well as a global parameter for home team advantage.\n\nSee https://github.com/arviz-devs/arviz_example_data/blob/main/code/rugby/rugby.ipynb for the whole model specification."
     },
     {
